@@ -30,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
    
    create a '.env' file and fill in your Discord bot token:
    ```bash
-   DISCORD_BOT_TOKEN=your_discord_bot_token_here
+   DISCORD_BOT_TOKEN="your_discord_bot_token_here"
    
 4. **Install Dependencies**
    ```bash
