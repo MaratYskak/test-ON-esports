@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. **Clone the Repository**
 
    ```bash
-   git clone [https://github.com/yourgithubusername/discord-poll-bot.git](https://github.com/MaratYskak/test-ON-esports.git)
+   git clone https://github.com/MaratYskak/test-ON-esports.git
    cd discord-poll-bot
    
 2. **Configure Environment Variables**
