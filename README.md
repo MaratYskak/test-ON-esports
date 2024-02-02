@@ -24,7 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
 
    ```bash
    git clone https://github.com/MaratYskak/test-ON-esports.git
-   cd discord-poll-bot
+   cd test-ON-esports
    
 2. **Configure Environment Variables**
     create a '.env' file and fill in your Discord bot token:
