@@ -27,15 +27,16 @@ These instructions will get you a copy of the project up and running on your loc
    cd test-ON-esports
    
 2. **Configure Environment Variables**
+   
    create a '.env' file and fill in your Discord bot token:
    ```bash
    DISCORD_BOT_TOKEN=your_discord_bot_token_here
    
-3. **Install Dependencies**
+4. **Install Dependencies**
    ```bash
    go mod tidy
 
-4. **Run the Bot**
+5. **Run the Bot**
    ```bash
    go run .
 
