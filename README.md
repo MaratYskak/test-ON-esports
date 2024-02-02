@@ -6,7 +6,7 @@ This Discord bot enhances engagement within Discord servers by enabling users to
 
 - **Poll Creation**: Allows users to create polls with customizable options.
 - **Vote Using Reactions**: Participants can vote on polls by reacting with emojis.
-- **Dynamic Poll Updates**: Updates poll messages in real-time to reflect current votes (implementation details may vary).
+- **Dynamic Poll Updates**: Updates poll messages in real-time to reflect current votes.
 
 ## Getting Started
 
